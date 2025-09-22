@@ -1,5 +1,5 @@
-# AI-for-USFWS-Migratory-Birds
-### This repository contains R and Python code for conducting deep learning, computer vision analyses. Please contact Brad Pickens, bradley_pickens@fws.gov, for more information or for questions.
+# AI-for-WHCR
+### This repository contains R and Python code for conducting deep learning, computer vision analyses. Specifically, the code has been developed to detect and classify Whooping Crane. Please contact Brad Pickens, bradley_pickens@fws.gov, for more information or for questions.
 
 ### The realm covered here includes imagery management and preprocessing, annotation conversions, deep learning model training/testing, post-processing, and statistical analyses. Project-specific code is tailored to ongoing USFWS projects. 
 
